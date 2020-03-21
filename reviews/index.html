@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="/reviews.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
+    <style>
+        .wrapper {
+            width: 50%;
+            margin: 0 auto;
+            margin-top: 15%;
+            font-family: open sans, helvetica neue, Helvetica, Arial, sans-serif;
+            line-height: 1.43;
+        }
+
+        .rating-box {
+            position: relative;
+            vertical-align: middle;
+            font-size: 2em;
+            font-family: FontAwesome;
+            display: inline-block;
+            color: #F68127;
+        }
+
+        .rating-box:before {
+            content: "\f006 \f006 \f006 \f006 \f006";
+        }
+
+        .rating-box .rating {
+            position: absolute;
+            left: 0;
+            top: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            color: #F68127;
+        }
+
+        .rating-box .rating:before {
+            content: "\f005 \f005 \f005 \f005 \f005";
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper" id="slide" style="display: none;">
+        <div>
+            <div style="margin-bottom: 1%;" id="review_owner"></div>
+            <div class="rating-box">
+                <div class="rating" style="width:100%;"></div>
+            </div>
+        </div>
+        <div>
+            <p id="review">
+
+            </p>
+        </div>
+    </div>
+</body>
+<script>
+    var begin = 0;
+    var end = reviews.length;
+    fadeOutIn();
+    setInterval(
+        function () {
+            begin++;
+            if (begin == end) begin = 0;
+            fadeOutIn();
+        }, readingDelay
+    )
+
+    function fadeOutIn(){
+        $.when($('#slide').fadeOut(fadeInDelay))
+                .done(function () {
+                    $("#review_owner").text(reviews[begin].review_owner.toUpperCase());
+                    $("#review").text(reviews[begin].txt);
+                    $("#slide").fadeIn(fadeOutDelay);
+                });
+    }
+
+</script>
+
+</html>
