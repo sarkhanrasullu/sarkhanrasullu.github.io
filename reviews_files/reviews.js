@@ -20,7 +20,7 @@ var reviews = [
   {
     review_owner: "Şamil Yeşil",
     txt:
-      "Fotoğraf çekmeyi çok seven bir insanım ama makinem olmadığı için telefonla çekmek zorunda kalıyorum. Etrafımdaki insanlar bana hep kendini dahada geliştir sende yetenek var derlerdi. Bir gün youtube da afgan abiye denk geldim ve Ps öğrenmeye karar verdim. Afgan abinin çok güzel bi konuşma biçimi var ve 12 yıllık eğitim hayatımda bana bu tarz bilgi öğretmeye çalışan öğretmenle karşılaşamadım. Ps ile kısıtlı kalmak istemedim Lr dersini de satın aldım. Güzel bir fotoğraf makinesi  alıp kendimi dahada geliştirmeye karar verdim. Afgan abimi burada sayfalarca anlatsam az kalır. Herkesin tanıması gereken bir insansın ve benim en iyi öğretmenimsin. Umarım hak ettiğin yerlere gelirsin abim. Kendine çok iyi bak.+ See more"
+      "Fotoğraf çekmeyi çok seven bir insanım ama makinem olmadığı için telefonla çekmek zorunda kalıyorum. Etrafımdaki insanlar bana hep kendini dahada geliştir sende yetenek var derlerdi. Bir gün youtube da afgan abiye denk geldim ve Ps öğrenmeye karar verdim. Afgan abinin çok güzel bi konuşma biçimi var ve 12 yıllık eğitim hayatımda bana bu tarz bilgi öğretmeye çalışan öğretmenle karşılaşamadım. Ps ile kısıtlı kalmak istemedim Lr dersini de satın aldım. Güzel bir fotoğraf makinesi  alıp kendimi dahada geliştirmeye karar verdim. Afgan abimi burada sayfalarca anlatsam az kalır. Herkesin tanıması gereken bir insansın ve benim en iyi öğretmenimsin. Umarım hak ettiğin yerlere gelirsin abim. Kendine çok iyi bak."
   },
   {
     review_owner: "Murat Yıldiz",
@@ -167,7 +167,7 @@ var reviews = [
   {
     review_owner: "Shadow",
     txt:
-      "Daha önce farklı platformlarda da birçok eğitim videosu izledim, satın aldım fakat giriş seviyesinin biraz üzerinde photoshopu bilen birisi olarak bile kurstan muhteşem keyif aldım. Beni mest eden yanı açılan/gösterilen bir pencerenin içerisinde ne özellik varsa ne işe yaradığı anlatılmış ve nasıl uygulandığı da harika örneklerle anlatılmış. Bir kursun aslında en önemli yanı olan anlatımcının cümle kurması. Bu kursta eğitmen Türkçeye hakim diliyle o kadar harika anlatım sağlıyor ki kursun içerisinde akıp gidebiliyorsunuz ve soluksuz bir şekilde sona doğru geliyorsunuz. Kursa 3 akşam ayırdım ve %95ini bitirdim. Muhteşem şeyler öğrendiğimi düşünüyorum. Artık 2 şey benim açımdan kesin; Birincisi Photoshop benim için çocuk oyuncağı, ikincisi ise Afgan Rasulovun vereceği tüm kursları gözü kapalı satın alacağım (tabiki ilgi alanıma göre). After effects, Premier pro gibi diğer programlardan da bu şekilde Adan Zye bir kurs hazırlarsa bekliyor olacağım. Harika kurs için Teşekkürler Afgan Rasulov.+ See more"
+      "Daha önce farklı platformlarda da birçok eğitim videosu izledim, satın aldım fakat giriş seviyesinin biraz üzerinde photoshopu bilen birisi olarak bile kurstan muhteşem keyif aldım. Beni mest eden yanı açılan/gösterilen bir pencerenin içerisinde ne özellik varsa ne işe yaradığı anlatılmış ve nasıl uygulandığı da harika örneklerle anlatılmış. Bir kursun aslında en önemli yanı olan anlatımcının cümle kurması. Bu kursta eğitmen Türkçeye hakim diliyle o kadar harika anlatım sağlıyor ki kursun içerisinde akıp gidebiliyorsunuz ve soluksuz bir şekilde sona doğru geliyorsunuz. Kursa 3 akşam ayırdım ve %95ini bitirdim. Muhteşem şeyler öğrendiğimi düşünüyorum. Artık 2 şey benim açımdan kesin; Birincisi Photoshop benim için çocuk oyuncağı, ikincisi ise Afgan Rasulovun vereceği tüm kursları gözü kapalı satın alacağım (tabiki ilgi alanıma göre). After effects, Premier pro gibi diğer programlardan da bu şekilde Adan Zye bir kurs hazırlarsa bekliyor olacağım. Harika kurs için Teşekkürler Afgan Rasulov."
   },
   {
     review_owner: "Koray Şimsek",
@@ -420,7 +420,7 @@ var reviews = [
   {
     review_owner: "Arzu Seki̇n",
     txt:
-      "Kendisinin emeğine sağlık. Zaten Youtube kanalından da takip ediyorum. İşini o kadar seviyor ki, bunu eğitimlerde de çok iyi hissettiriyor. Kurslara gittiğim halde sayesin de hem Photoshop programını hem de Premiere Pro programını buradan öğrendim. Anlatımı ve atış noktaları çok iyi.. Kısacası çok çok iyi. Devamını dilerim. Özellikle Premiere Pro detaylı anlatım eğitimi verirse çok sevinirim.tekrar tekrar teşekkür ederim.Arzu Sekin+ See more"
+      "Kendisinin emeğine sağlık. Zaten Youtube kanalından da takip ediyorum. İşini o kadar seviyor ki, bunu eğitimlerde de çok iyi hissettiriyor. Kurslara gittiğim halde sayesin de hem Photoshop programını hem de Premiere Pro programını buradan öğrendim. Anlatımı ve atış noktaları çok iyi.. Kısacası çok çok iyi. Devamını dilerim. Özellikle Premiere Pro detaylı anlatım eğitimi verirse çok sevinirim.tekrar tekrar teşekkür ederim.Arzu Sekin"
   },
   {
     review_owner: "İsmail Uslu",
@@ -440,7 +440,7 @@ var reviews = [
   {
     review_owner: "İsrafi̇l Serdar Gültepe",
     txt:
-      "İnce ayrıntıları öğrendim. Giriş seviyesinde bir öğrenciyken şuan orta seviyenin az daha ilerisinde bir öğrenciyim. Kendime hiçbir zaman da profesyonel demeyeceğim çünkü zaman ilerledikçe yenilikler olacaktır yeniliklere açık olup kendimize bu kadar yeterlidir demeden sürekli öğrenme çabası içerisinde olmalıyız düşüncesini aşıladım. Bu kurs ile ilgili önerim sadece şu olabilir bu kursu almış bir öğrenci olaraktan, ayrı bir bölüm daha koyulup kursun içeriğine bonus olarak bu bölümede egzersiz bölümü denerek egzersiz sayısı biraz daha arttırılabilir daha detaylı daha fazla örnekle kursun içerisindeki eğitimlere destek sağlanabilir görüşündeyim. Bunların dışında kurs gerek hobi gerekse fotoğrafçılığı meslek edinmek isteyenler için kaçırılmaz fırsat gerekli çoğu bilgiyi içinde barındırmaktadır.+ See more"
+      "İnce ayrıntıları öğrendim. Giriş seviyesinde bir öğrenciyken şuan orta seviyenin az daha ilerisinde bir öğrenciyim. Kendime hiçbir zaman da profesyonel demeyeceğim çünkü zaman ilerledikçe yenilikler olacaktır yeniliklere açık olup kendimize bu kadar yeterlidir demeden sürekli öğrenme çabası içerisinde olmalıyız düşüncesini aşıladım. Bu kurs ile ilgili önerim sadece şu olabilir bu kursu almış bir öğrenci olaraktan, ayrı bir bölüm daha koyulup kursun içeriğine bonus olarak bu bölümede egzersiz bölümü denerek egzersiz sayısı biraz daha arttırılabilir daha detaylı daha fazla örnekle kursun içerisindeki eğitimlere destek sağlanabilir görüşündeyim. Bunların dışında kurs gerek hobi gerekse fotoğrafçılığı meslek edinmek isteyenler için kaçırılmaz fırsat gerekli çoğu bilgiyi içinde barındırmaktadır."
   },
   {
     review_owner: "Yunus Sarıusta",
@@ -451,7 +451,7 @@ var reviews = [
   {
     review_owner: "Zafer Payçu",
     txt:
-      "Afgan Beyi youtubea ilk video yüklemesinden beridir (7yıldır) takip ediyorum. Kendisinin neredeyse tüm kurslarını satın aldım. Sayesinde bu mesleğe adım atıp, kariyerimde yükseliyorum. Kendisine ne kadar teşekkür etsem azdır. Birçok yararlı bilgiyi en sade, yalın anlatımıyla bizlere sunuyor. Kendisinin birebir kullandığı yöntemleri açık açık anlatıp, tüm sorulara en içtenlikle cevap veriyor. Bu kursta en çok profesyonel rötuş tekniğini beğendim. Acılar; biraz daha fazla uygulamalı ve ileri seviye kesime hitaben (Yeni başlayan ve orta seviyeye değil) içerikler yaparsanız çok daha mutlu oluruz. Herşey için teşekkürler, takipteyiz.+ See more"
+      "Afgan Beyi youtubea ilk video yüklemesinden beridir (7yıldır) takip ediyorum. Kendisinin neredeyse tüm kurslarını satın aldım. Sayesinde bu mesleğe adım atıp, kariyerimde yükseliyorum. Kendisine ne kadar teşekkür etsem azdır. Birçok yararlı bilgiyi en sade, yalın anlatımıyla bizlere sunuyor. Kendisinin birebir kullandığı yöntemleri açık açık anlatıp, tüm sorulara en içtenlikle cevap veriyor. Bu kursta en çok profesyonel rötuş tekniğini beğendim. Acılar; biraz daha fazla uygulamalı ve ileri seviye kesime hitaben (Yeni başlayan ve orta seviyeye değil) içerikler yaparsanız çok daha mutlu oluruz. Herşey için teşekkürler, takipteyiz."
   },
   {
     review_owner: "Mustafa Kemal",
@@ -628,7 +628,7 @@ var reviews = [
   {
     review_owner: "Ertuğrul Evli̇yaoğlu",
     txt:
-      "Afgan Rasulov öncelikle insanlığından dolayı çok teşekkür ederim eğitimlerini alın almayın ne zaman birşeyler danışsanız çok hızlı bir şekilde yardımcı oluyor , ben birşeyler öğrenmek istedim hemen gerekli resimleri png formatında gönder  nasıl yapacağın hakkında video çekip eğitime ekliyeyim dedi .      Var mı böyle yardımcı olan Türkiye Cumhuriyetinde ? Afgan hocam sen Allahın bir lutfusun  .... Tekrar Tekrar çok teşekkür ediyorum eğitimlerini gözü kapalı alın şiddetle tavsiye ediyorum eğitimleri aldıktan sonra farkı göreceksiniz ve Adamın dibi bir hocayla tanışmış olacaksınız .+ See more"
+      "Afgan Rasulov öncelikle insanlığından dolayı çok teşekkür ederim eğitimlerini alın almayın ne zaman birşeyler danışsanız çok hızlı bir şekilde yardımcı oluyor , ben birşeyler öğrenmek istedim hemen gerekli resimleri png formatında gönder  nasıl yapacağın hakkında video çekip eğitime ekliyeyim dedi .      Var mı böyle yardımcı olan Türkiye Cumhuriyetinde ? Afgan hocam sen Allahın bir lutfusun  .... Tekrar Tekrar çok teşekkür ediyorum eğitimlerini gözü kapalı alın şiddetle tavsiye ediyorum eğitimleri aldıktan sonra farkı göreceksiniz ve Adamın dibi bir hocayla tanışmış olacaksınız ."
   },
   { review_owner: "Huseyn Gurbanov", txt: "Çox bəyəndim." },
   { review_owner: "Özlem aydın", txt: "İyiydi" },
@@ -681,7 +681,7 @@ var reviews = [
   {
     review_owner: "Hakan Naşezo",
     txt:
-      "Tekrar merhaba,İlk olarak körü körüne tercih ettiğim ve aynı zamanda da Youtube kanalını takip ettiğim ender samimiyet sahibi güzel insan Afgan Rasulaov'a teşekkür ediyorum. Bu detaylı youtube Seo Eğitim Setini paylaştığı için. gerçekten çok teşekkür ederim. * Yalnız belirtmem gerektiğini düşündüğüm şeyler de yok değil.* 2020 Youtube Algoritması ya da Youtube Güncellemeleriyle alakalı bir kaç içerik eklerseniz güzel kardeşim bütün öğrencileriniz adına iyi bir hediye veya güncelleme olabilir.İyi Yayınlar, Başarılar...+ See more"
+      "Tekrar merhaba,İlk olarak körü körüne tercih ettiğim ve aynı zamanda da Youtube kanalını takip ettiğim ender samimiyet sahibi güzel insan Afgan Rasulaov'a teşekkür ediyorum. Bu detaylı youtube Seo Eğitim Setini paylaştığı için. gerçekten çok teşekkür ederim. * Yalnız belirtmem gerektiğini düşündüğüm şeyler de yok değil.* 2020 Youtube Algoritması ya da Youtube Güncellemeleriyle alakalı bir kaç içerik eklerseniz güzel kardeşim bütün öğrencileriniz adına iyi bir hediye veya güncelleme olabilir.İyi Yayınlar, Başarılar..."
   },
   {
     review_owner: "Esra Karagöz",
@@ -706,7 +706,7 @@ var reviews = [
   {
     review_owner: "Bayan Butik",
     txt:
-      "merhaba ben canberk gül.Doktorum ben ve yaptığım tedavilerle ilgili bir youtube kanalı kurmaya karar verdim. Kanalı kurmadan önce birçok kaynaktan bilgi aldım.Youtube academydeki tüm videoları ve makaleleri okudum.Kendimce bir şeyler yapmaya çalışıyorum sonrasında Afgan Bey'in bu kursunu satın adım ve de iyiki almışım diyorum şu anda tüm samimiyetimle. Çünkü bazen bir konuyu ne kadar okusanız yada araştırsanız dahi yeterli olamayabiliyor.Tecrübeler daha önemli oluyor.Afgan bey çok açık,anlaşılır ve sade bir biçimde tecrübelerini aktarmış ve de 1000 sayfadan fazla yazı, 15 saat civarı video izleyen birisi olarak bazı bilgiler gerçekten hiçbir yerde bu kadar açıkça ifade edilmemiş. Kendisine çok teşekkür ederim.Hiç düşünmeden bu kursu satın alabilirsiniz kesinlikle+ See more"
+      "merhaba ben canberk gül.Doktorum ben ve yaptığım tedavilerle ilgili bir youtube kanalı kurmaya karar verdim. Kanalı kurmadan önce birçok kaynaktan bilgi aldım.Youtube academydeki tüm videoları ve makaleleri okudum.Kendimce bir şeyler yapmaya çalışıyorum sonrasında Afgan Bey'in bu kursunu satın adım ve de iyiki almışım diyorum şu anda tüm samimiyetimle. Çünkü bazen bir konuyu ne kadar okusanız yada araştırsanız dahi yeterli olamayabiliyor.Tecrübeler daha önemli oluyor.Afgan bey çok açık,anlaşılır ve sade bir biçimde tecrübelerini aktarmış ve de 1000 sayfadan fazla yazı, 15 saat civarı video izleyen birisi olarak bazı bilgiler gerçekten hiçbir yerde bu kadar açıkça ifade edilmemiş. Kendisine çok teşekkür ederim.Hiç düşünmeden bu kursu satın alabilirsiniz kesinlikle"
   },
   {
     review_owner: "İsmail Kayacan",
@@ -726,17 +726,17 @@ var reviews = [
   {
     review_owner: "Mustafa çet",
     txt:
-      "Öncelikle dersini çok beğendim ve başarılı sunum yaptınız teşekkür ederim.Ben bir çocuk kanalı öğrencinizim. 2 Ay sonra öğrenciniz oldum düzenli youtube de düzenli video paylaşıyorum.Ekran goruntusu etıketler başlık kısımları hakkında olan kısım seo bolumu reklamda vermekde içinde 2.5 ay içinde 80 videoyla devam ediyoruz tek sorun önerilerimiz çok ve çok düşük bu durumda tabi üzülerek bekliyoruz.İnş bu dersden sonra hatalarımızı gördük düzeltme yolundayız hedeflerimize ulaşırız.+ See more"
+      "Öncelikle dersini çok beğendim ve başarılı sunum yaptınız teşekkür ederim.Ben bir çocuk kanalı öğrencinizim. 2 Ay sonra öğrenciniz oldum düzenli youtube de düzenli video paylaşıyorum.Ekran goruntusu etıketler başlık kısımları hakkında olan kısım seo bolumu reklamda vermekde içinde 2.5 ay içinde 80 videoyla devam ediyoruz tek sorun önerilerimiz çok ve çok düşük bu durumda tabi üzülerek bekliyoruz.İnş bu dersden sonra hatalarımızı gördük düzeltme yolundayız hedeflerimize ulaşırız."
   },
   {
     review_owner: "Onur Oktay",
     txt:
-      "Kursu tamamlayıp sertifikamı aldım. Afgan bey içten ve kaliteli anlatımıyla bilmemiz gerekenleri,  geçmiş derslerdeki önemli noktaları ve yapmamamız gereken hataları her derste ara ara  tekrar ederek bilgiyi adeta beynimize işleyen üslubuyla harikalar yaratmış. Kursu satın almayı düşünen arkadaşlara gönül rahatlığıyla tavsiye ederim. Asla pişman olmazsınız.Bilmediğimiz yada yanlış bildiğimiz o kadar çok şey varmış ki...Bu kurs bana çok şey kattı emeklerinize sağlık. Kanalım büyüdükten sonra nasip olursa sizinle çalışmayı çok isterim...Herşey için tekrar teşekkürler...+ See more"
+      "Kursu tamamlayıp sertifikamı aldım. Afgan bey içten ve kaliteli anlatımıyla bilmemiz gerekenleri,  geçmiş derslerdeki önemli noktaları ve yapmamamız gereken hataları her derste ara ara  tekrar ederek bilgiyi adeta beynimize işleyen üslubuyla harikalar yaratmış. Kursu satın almayı düşünen arkadaşlara gönül rahatlığıyla tavsiye ederim. Asla pişman olmazsınız.Bilmediğimiz yada yanlış bildiğimiz o kadar çok şey varmış ki...Bu kurs bana çok şey kattı emeklerinize sağlık. Kanalım büyüdükten sonra nasip olursa sizinle çalışmayı çok isterim...Herşey için tekrar teşekkürler..."
   },
   {
     review_owner: "İbrahim Kaya",
     txt:
-      "Ben Ruhi Çenetin A'dan Z' ye Youtube eğitim setini aldım ve izledim daha sonra Afgan Rasulov Eğitim setini aldım ve izliyorum ikiside konuya hakimler ve güzel anlatmışlar.Bu eğitim seti biraz daha kaliteli Kendi yapacağınız içerikler dışında buradaki öğretilenleri uygulayanların bir çoğu kanalını güzel yerlere getirebilir bundan eminim.Bir eleştiri olarak eğitim setiniz için şunu söyleyebilirim Youtube gelirleri hakkında eğitim vermemişsiniz .Örneğin Şu videoda şu kadar kazandım şunda ise şu kadar kazandım aylık kazanç vs bir şey anlatmamışsınız .+ See more"
+      "Ben Ruhi Çenetin A'dan Z' ye Youtube eğitim setini aldım ve izledim daha sonra Afgan Rasulov Eğitim setini aldım ve izliyorum ikiside konuya hakimler ve güzel anlatmışlar.Bu eğitim seti biraz daha kaliteli Kendi yapacağınız içerikler dışında buradaki öğretilenleri uygulayanların bir çoğu kanalını güzel yerlere getirebilir bundan eminim.Bir eleştiri olarak eğitim setiniz için şunu söyleyebilirim Youtube gelirleri hakkında eğitim vermemişsiniz .Örneğin Şu videoda şu kadar kazandım şunda ise şu kadar kazandım aylık kazanç vs bir şey anlatmamışsınız ."
   },
   {
     review_owner: "Çağatay Güleç",
@@ -897,7 +897,7 @@ var reviews = [
   {
     review_owner: "Ayaz Ünal",
     txt:
-      "Bildiğim fakat eksiklerimin olduğu kısımları tamamlayan güzel bir anlatım ve açıklayıcı bir kurs olmuş eline emeğine sağlık bilgilerini insanlarla paylaşıp onları daha doğru yönlendirmeniz bence çok faydalı bir davranış kendimce oldukça faydalı buldum teşekkür ediyorum fakat kendi youtube kanalımı tam manasıyla hangi katagoriye koyup kimi rakip seçeceğimi bilemiyorum Türkiye'de açtığım kanal benzeri çok fazla kanal yok buda benim şanssızlığım sanırım tekrar bilgilerinizi paylaştığınız için teşekkür ediyorum .Bu arada yeni bebeğiniz olmuş Allah analı babalı büyümeyi nasip etsin uykusuz kaldım dediğinizde kendi çocuğumun ilk doğduğu anları hatırladım haftalarca uykusuz kaldığımız anlar geldi aklıma Allah yardımcınız olsun ama biraz büyüyüp konuşmaya başladığında inanılmaz bir mutluluk demek çocuk Allaha emanet olun+ See more"
+      "Bildiğim fakat eksiklerimin olduğu kısımları tamamlayan güzel bir anlatım ve açıklayıcı bir kurs olmuş eline emeğine sağlık bilgilerini insanlarla paylaşıp onları daha doğru yönlendirmeniz bence çok faydalı bir davranış kendimce oldukça faydalı buldum teşekkür ediyorum fakat kendi youtube kanalımı tam manasıyla hangi katagoriye koyup kimi rakip seçeceğimi bilemiyorum Türkiye'de açtığım kanal benzeri çok fazla kanal yok buda benim şanssızlığım sanırım tekrar bilgilerinizi paylaştığınız için teşekkür ediyorum .Bu arada yeni bebeğiniz olmuş Allah analı babalı büyümeyi nasip etsin uykusuz kaldım dediğinizde kendi çocuğumun ilk doğduğu anları hatırladım haftalarca uykusuz kaldığımız anlar geldi aklıma Allah yardımcınız olsun ama biraz büyüyüp konuşmaya başladığında inanılmaz bir mutluluk demek çocuk Allaha emanet olun"
   },
   { review_owner: "Si̇nan Öksüz", txt: "Gerçekten, harika bilgiler!" },
   {
@@ -1008,7 +1008,7 @@ var reviews = [
   {
     review_owner: "Volkan Yazıcı",
     txt:
-      "Kursu kısa sürede tamamladım. İçerikler gayet anlaşılır bir şekilde paylaşılmış. Ses ve görüntü gayet güzel. Tahminimce negatif yorumların sebebi hocanın en başta hızlı tur atarken anlatacağı her konuyu orada özet olarak geçmesinden kaynaklı. Yani En başta anlatıp sonra derslerde daha fazla değiniyor. Kursiyerde 'Bana başta anlattın neden tekrar anlatıyorsun?' yanılgısına kapılıyor olabilir. Youtube=Google çalışma prensibi olduğu için hoca youtube üzerinde SEO çalışmalarını ve içeriklerin doğru nasıl hazırlanacağı ile ilgili her konuya değinmiş teorik ve pratik olarak anlatmış. Ayrıca kursun güncellendiğini söyleyebilirim örnek olarak 'google adwords' den 'google ads' e geçiğildiğini hoca anlatmış ve konuların başına YENİ yazısını koymuş. Kurs için emeğinize sağlık. Kursu alacak olan kişilerede şimdiden bol şans diyorum.+ See more"
+      "Kursu kısa sürede tamamladım. İçerikler gayet anlaşılır bir şekilde paylaşılmış. Ses ve görüntü gayet güzel. Tahminimce negatif yorumların sebebi hocanın en başta hızlı tur atarken anlatacağı her konuyu orada özet olarak geçmesinden kaynaklı. Yani En başta anlatıp sonra derslerde daha fazla değiniyor. Kursiyerde 'Bana başta anlattın neden tekrar anlatıyorsun?' yanılgısına kapılıyor olabilir. Youtube=Google çalışma prensibi olduğu için hoca youtube üzerinde SEO çalışmalarını ve içeriklerin doğru nasıl hazırlanacağı ile ilgili her konuya değinmiş teorik ve pratik olarak anlatmış. Ayrıca kursun güncellendiğini söyleyebilirim örnek olarak 'google adwords' den 'google ads' e geçiğildiğini hoca anlatmış ve konuların başına YENİ yazısını koymuş. Kurs için emeğinize sağlık. Kursu alacak olan kişilerede şimdiden bol şans diyorum."
   },
   {
     review_owner: "Sedat Yalçın",
@@ -1392,7 +1392,7 @@ var reviews = [
   {
     review_owner: "Hamit Büyükgüler",
     txt:
-      "Merhaba Afgan Bey, Udemy ve öğrencileri.Kendisini tanıdığıma memnun olduğum az insanlardan birisi Afgan Bey... Bilmediğimiz veya doğru bildiğimiz bir çok noktaları öğrendik. Detaylı anlatımı ile konulara hakimiyetinden ve ihtisas sahibi olmasından gelen güven, aklımızda acaba doğru diye soru işaretleri bırakmamaktadır. Gerek anlatımı gerek samimi oluşu ve de bilgileri ile gerçekten çok memnun kaldım. Gerçek hayatta da kendisiyle tanışıp dost kurmak istediğim nadir insanlardan. Kendisi bizim cesaretlenmemizi, azimli olup sabretmemizi, kendimize inanmamızı ve doğru uygulamalar yaptığımız takdirde başarıya ulaşacağımız inancını bizlere aşıladı.Teşekkürler Afgan Rasulov ve Udemy ekibi.DilkologTV admini Hamit Büyükgüler+ See more"
+      "Merhaba Afgan Bey, Udemy ve öğrencileri.Kendisini tanıdığıma memnun olduğum az insanlardan birisi Afgan Bey... Bilmediğimiz veya doğru bildiğimiz bir çok noktaları öğrendik. Detaylı anlatımı ile konulara hakimiyetinden ve ihtisas sahibi olmasından gelen güven, aklımızda acaba doğru diye soru işaretleri bırakmamaktadır. Gerek anlatımı gerek samimi oluşu ve de bilgileri ile gerçekten çok memnun kaldım. Gerçek hayatta da kendisiyle tanışıp dost kurmak istediğim nadir insanlardan. Kendisi bizim cesaretlenmemizi, azimli olup sabretmemizi, kendimize inanmamızı ve doğru uygulamalar yaptığımız takdirde başarıya ulaşacağımız inancını bizlere aşıladı.Teşekkürler Afgan Rasulov ve Udemy ekibi.DilkologTV admini Hamit Büyükgüler"
   },
   {
     review_owner: "Nagehan UNUSAN",
@@ -1452,7 +1452,7 @@ var reviews = [
   {
     review_owner: "Abdurrahman Bayaslan",
     txt:
-      "Ben Afgan Abi Sayesinde Grafik Tasarım Yapmaya Başladım ve Şuan Bir Çok Kişisel ve Kurumsal Yerlere Tasarımlar Yapıyorum Aynı Zamanda Afgan Abiden Edindiğim Bilgiler Sayesinde Çok Daha Kaliteli İçerikler Hazırlıyorum..Bu Eğitimi Alırken Hiç Tereddüt Etmeden Aldım ve Şuan Eğitimi Bitirdiğimde Gerçekten de Aldığıma Çok Memnun Kaldım Faydalı Bilgiler Kesinlikle Ben Zaten Afgan Abi Sayesinde Neredeyse Yarısını Biliyordum Geriye Kalan Kısımları ve Açıklarımı da Tamamlamış Oldum ve Şimdi Çok Daha Kaliteli İçerikler Hazırlayarak Çok İyi Yerlere Ulaşmayı Hedefliyorum..Emeğine ve Yüreğine Sağlık Afgan Abi...+ See more"
+      "Ben Afgan Abi Sayesinde Grafik Tasarım Yapmaya Başladım ve Şuan Bir Çok Kişisel ve Kurumsal Yerlere Tasarımlar Yapıyorum Aynı Zamanda Afgan Abiden Edindiğim Bilgiler Sayesinde Çok Daha Kaliteli İçerikler Hazırlıyorum..Bu Eğitimi Alırken Hiç Tereddüt Etmeden Aldım ve Şuan Eğitimi Bitirdiğimde Gerçekten de Aldığıma Çok Memnun Kaldım Faydalı Bilgiler Kesinlikle Ben Zaten Afgan Abi Sayesinde Neredeyse Yarısını Biliyordum Geriye Kalan Kısımları ve Açıklarımı da Tamamlamış Oldum ve Şimdi Çok Daha Kaliteli İçerikler Hazırlayarak Çok İyi Yerlere Ulaşmayı Hedefliyorum..Emeğine ve Yüreğine Sağlık Afgan Abi..."
   },
   {
     review_owner: "Sherzod Ochilov",
@@ -1582,7 +1582,7 @@ var reviews = [
   {
     review_owner: "Barış Şenkan",
     txt:
-      "Özellikle Adwords için yapılan açıklamalar ve videoları seçerken karar vermemiz gereken evergreen / clickbait ilişkisi beni en çok etkileyen kısımlar oldu. Bu ve bunun gibi birçok detay ve ayrıntı, bu eğitimin içinde yer almaktadır. Açıkcası ben oldukça memnun kaldım ve kanalım için yeni şeyler öğrendiğim düşünüyorum.Heyecan içinde yeni videomu paylaşacağım zaman bu öğrendiklerimi uygulamak için sabırsızlanıyorum.Tekrar teşekkürler Afgan Rasulov.Diline bilgine emeğine sağlık...+ See more"
+      "Özellikle Adwords için yapılan açıklamalar ve videoları seçerken karar vermemiz gereken evergreen / clickbait ilişkisi beni en çok etkileyen kısımlar oldu. Bu ve bunun gibi birçok detay ve ayrıntı, bu eğitimin içinde yer almaktadır. Açıkcası ben oldukça memnun kaldım ve kanalım için yeni şeyler öğrendiğim düşünüyorum.Heyecan içinde yeni videomu paylaşacağım zaman bu öğrendiklerimi uygulamak için sabırsızlanıyorum.Tekrar teşekkürler Afgan Rasulov.Diline bilgine emeğine sağlık..."
   },
   {
     review_owner: "Neslihan KOÇ ERDOĞAN",
@@ -1632,7 +1632,7 @@ var reviews = [
   {
     review_owner: "Yunus Emre ARSLAN",
     txt:
-      "Çok kaliteli sunum oluyor. Yeni videonun gelmesini sabırsızlıkla bekliyorum. Gayet başarılı bir şekilde devam ediyor. Teşekkür Ederim.-----Kursu başarılı bir şekilde bitirdim. Gerisini zaman gösterecek. Dipnot: Afkan Rasulov bilmediğimiz ve öğrenemeyeceğimiz bilgileri bizimle paylaştığın için sana sonsuz teşekkür ederim ve  ilgiyi kesmediğin için. Tekrar tekrar Teşekkür Ederim.+ See more"
+      "Çok kaliteli sunum oluyor. Yeni videonun gelmesini sabırsızlıkla bekliyorum. Gayet başarılı bir şekilde devam ediyor. Teşekkür Ederim.-----Kursu başarılı bir şekilde bitirdim. Gerisini zaman gösterecek. Dipnot: Afkan Rasulov bilmediğimiz ve öğrenemeyeceğimiz bilgileri bizimle paylaştığın için sana sonsuz teşekkür ederim ve  ilgiyi kesmediğin için. Tekrar tekrar Teşekkür Ederim."
   },
   {
     review_owner: "Kerim Teke",
@@ -1657,7 +1657,7 @@ var reviews = [
   {
     review_owner: "Ömer Anlı",
     txt:
-      "Eğitimi tamamladım ve mutluyum. Çünkü gerçekten kanalımın neden gelişmediği konusunda kafamda ki sorulara cevap buldum. Anladığım ilk şey önce niyetimin ne olduğunu kavramak. Sonra bunun için nasıl bir çeşitlilik sağlayabilirim onu belirlemek. Daha sonra videolarımı montajlarken güzel ve insanları tutabilir kurgular hazırlamak. Ardından başlık-açıklama-küçük resim ayarlarını gerçekten sağlam yapmak. Sonra da verileri düzenli olarak takip etmek. Yüzeysel olarak anlattım. Bunların bende ayrı birer notları ve sıralamaları var tabii. Çok teşekkür ederim. Çok sağolun her şey için. Gerçekten iyi ki eğitimi almışım :)+ See more"
+      "Eğitimi tamamladım ve mutluyum. Çünkü gerçekten kanalımın neden gelişmediği konusunda kafamda ki sorulara cevap buldum. Anladığım ilk şey önce niyetimin ne olduğunu kavramak. Sonra bunun için nasıl bir çeşitlilik sağlayabilirim onu belirlemek. Daha sonra videolarımı montajlarken güzel ve insanları tutabilir kurgular hazırlamak. Ardından başlık-açıklama-küçük resim ayarlarını gerçekten sağlam yapmak. Sonra da verileri düzenli olarak takip etmek. Yüzeysel olarak anlattım. Bunların bende ayrı birer notları ve sıralamaları var tabii. Çok teşekkür ederim. Çok sağolun her şey için. Gerçekten iyi ki eğitimi almışım :)"
   },
   {
     review_owner: "Osman Boztepe",
@@ -1668,7 +1668,7 @@ var reviews = [
   {
     review_owner: "Hasan Kahveci",
     txt:
-      "Kendine özgü anlatımı ve mizacı ile eğitime özel bir sinerji katıyor. 'Hiç bir yerde bulamayacağın bilgiler burada' dedi! Bende farklı eğitimlere de bakmış biri olarak, gerçekten kayda değer bilgiler bulacaksınız. Değer katacak bir çok konu ve konu başlığı var. Eğer bir kanalım olsun diye başlayıp devam ettirirseniz sabırlı bir şekilde, sizde bir vlogçu yada youtube fenomeni olmanız kaçınılmaz. Seni İzlemeye devam ediyorum. Afgan Rasulov;  TEŞEKKÜRLER...+ See more"
+      "Kendine özgü anlatımı ve mizacı ile eğitime özel bir sinerji katıyor. 'Hiç bir yerde bulamayacağın bilgiler burada' dedi! Bende farklı eğitimlere de bakmış biri olarak, gerçekten kayda değer bilgiler bulacaksınız. Değer katacak bir çok konu ve konu başlığı var. Eğer bir kanalım olsun diye başlayıp devam ettirirseniz sabırlı bir şekilde, sizde bir vlogçu yada youtube fenomeni olmanız kaçınılmaz. Seni İzlemeye devam ediyorum. Afgan Rasulov;  TEŞEKKÜRLER..."
   },
   {
     review_owner: "Erhan Aslan",
@@ -1708,7 +1708,7 @@ var reviews = [
   {
     review_owner: "Sedat Orkun Avsal",
     txt:
-      "Gerçekten mükemmel bir insan ben inanıyorum ki kendimde Youtube'a video atmaya başladığımda gelişip büyüyeceğim çünkü afgan abi bir çok şeyi detaylı olarak vermiş çok güzel bir anlatımı var akıcı heyecan verici insanın bir anda video çekesi geliyor :) ve kendisi çok sempatik bir insan Youtube'a gelişmek için yapılması gereken her şeyi bu videoda anlatmış herkesin almasını bu kursa katılmasını tavsiye ediyorum ki çünkü bir daha böyle detaylı ve kesin sonuç veren bir kurs bulamazsınız tekrardan herkesin almasını tavsiye ediyorum şahsen ben kursu bitirdim ve ne kadar çok şey bilmiyormuşum dedim kurstan sonuna kadar memnunum kendisini bu azmi ve başarısı için tebrik ediyorum ve umarım daha iyi yerlere gelir...+ See more"
+      "Gerçekten mükemmel bir insan ben inanıyorum ki kendimde Youtube'a video atmaya başladığımda gelişip büyüyeceğim çünkü afgan abi bir çok şeyi detaylı olarak vermiş çok güzel bir anlatımı var akıcı heyecan verici insanın bir anda video çekesi geliyor :) ve kendisi çok sempatik bir insan Youtube'a gelişmek için yapılması gereken her şeyi bu videoda anlatmış herkesin almasını bu kursa katılmasını tavsiye ediyorum ki çünkü bir daha böyle detaylı ve kesin sonuç veren bir kurs bulamazsınız tekrardan herkesin almasını tavsiye ediyorum şahsen ben kursu bitirdim ve ne kadar çok şey bilmiyormuşum dedim kurstan sonuna kadar memnunum kendisini bu azmi ve başarısı için tebrik ediyorum ve umarım daha iyi yerlere gelir..."
   },
   {
     review_owner: "Ahmet Salih Sevgi",
@@ -1803,7 +1803,7 @@ var reviews = [
   {
     review_owner: "Halim Öztürk",
     txt:
-      "Bu kursa yapılmış olan çoğu yorumu okudum ve genel görüşe ben de katılıyorum. Kursta çok fazla bence gereksiz olan tekrar var. Afgan Bey tekrarı sevdiğini söylüyor kursta devamlı  ama bence bu iş doz aşımı miktarında olmuş herkes böyle düşündüğüne göre göz önünde bulundurmalıdır diye düşünüyorum.Kursun içeriğine gelecek olursak, gerçekten insana mantıklı gelen ve uygulandığında faydalı olabileceğini düşündüğüm bilgilerle dolu. Hatta gerekli gördüğümde tekrar tekrar açıp izlemeyi düşünüyorum. Denilenleri uygulamaya başladım fakat mantıklı düşünen biri iseniz hemen etki görmenin mümkün olmadığını bilirsiniz.  Zamanla etki gördükçe buradaki yorumu güncellemeye çalışırım. Her şeye rağmen 5 yıldızı hak eden ve para vermeye değer bir kurs olarak görüyorum. Tavsiye ederim.+ See more"
+      "Bu kursa yapılmış olan çoğu yorumu okudum ve genel görüşe ben de katılıyorum. Kursta çok fazla bence gereksiz olan tekrar var. Afgan Bey tekrarı sevdiğini söylüyor kursta devamlı  ama bence bu iş doz aşımı miktarında olmuş herkes böyle düşündüğüne göre göz önünde bulundurmalıdır diye düşünüyorum.Kursun içeriğine gelecek olursak, gerçekten insana mantıklı gelen ve uygulandığında faydalı olabileceğini düşündüğüm bilgilerle dolu. Hatta gerekli gördüğümde tekrar tekrar açıp izlemeyi düşünüyorum. Denilenleri uygulamaya başladım fakat mantıklı düşünen biri iseniz hemen etki görmenin mümkün olmadığını bilirsiniz.  Zamanla etki gördükçe buradaki yorumu güncellemeye çalışırım. Her şeye rağmen 5 yıldızı hak eden ve para vermeye değer bir kurs olarak görüyorum. Tavsiye ederim."
   },
   {
     review_owner: "Tayfun Esref",
@@ -1909,7 +1909,7 @@ var reviews = [
   {
     review_owner: "Bera",
     txt:
-      "Ruhi abinin kursu ile bu kurs arasında kaldım ilk hangisini alıyım diye sonra bu kurs ile başlamanın en doğru karar olcağını düşündüm 2015 ten beri youtubedeyim ve gelişemiyorum nerede hatalarım var diye merak ediyorum şuan kursun daha %40 ını bitirdim ve o kadar bilgi edindimki  gerçekten bu kursu almak çok doğru bir karar almak isteyen 1 sn durmasın hıç tereddüt etmeyin ve alın kursun %40 ına bile gelince çok fazla hata yaptığnızı fark ediceksiniz kurs çok başarılı.Bide kursu YouTube sertifikalı uzmandan alıyorsunuz yani en döğru kişiden alıyorsunuz böyle güzel bir kurs hazırladığın için teşekkürler Afgan abi+ See more"
+      "Ruhi abinin kursu ile bu kurs arasında kaldım ilk hangisini alıyım diye sonra bu kurs ile başlamanın en doğru karar olcağını düşündüm 2015 ten beri youtubedeyim ve gelişemiyorum nerede hatalarım var diye merak ediyorum şuan kursun daha %40 ını bitirdim ve o kadar bilgi edindimki  gerçekten bu kursu almak çok doğru bir karar almak isteyen 1 sn durmasın hıç tereddüt etmeyin ve alın kursun %40 ına bile gelince çok fazla hata yaptığnızı fark ediceksiniz kurs çok başarılı.Bide kursu YouTube sertifikalı uzmandan alıyorsunuz yani en döğru kişiden alıyorsunuz böyle güzel bir kurs hazırladığın için teşekkürler Afgan abi"
   },
   {
     review_owner: "Bilal",
@@ -1923,7 +1923,7 @@ var reviews = [
   {
     review_owner: "Alperenoral Oral",
     txt:
-      "Tüm samimiyetimle söylüyorum ki. diğer hiç bir kursa gerek kalmadan Afgan Rasulov ' dan tüm bilgileri edinebilirsiniz.Anlatmadığı bir kaç bilgi olabilir. kendine has olmasını istediği. onları da kendi ekranlarından gözlemleyerek öğrenebilirsiniz. İlaveten karalamak istemem kimseyi ama. diğerleri gibi ön izlemede canlı gözüküp sonradan lambur lumbur bir anlatım sergileyen birisi değil kendisi. çok içten ve enerjik.+ See more"
+      "Tüm samimiyetimle söylüyorum ki. diğer hiç bir kursa gerek kalmadan Afgan Rasulov ' dan tüm bilgileri edinebilirsiniz.Anlatmadığı bir kaç bilgi olabilir. kendine has olmasını istediği. onları da kendi ekranlarından gözlemleyerek öğrenebilirsiniz. İlaveten karalamak istemem kimseyi ama. diğerleri gibi ön izlemede canlı gözüküp sonradan lambur lumbur bir anlatım sergileyen birisi değil kendisi. çok içten ve enerjik."
   },
   {
     review_owner: "Kahraman Rencber",
@@ -2015,7 +2015,7 @@ var reviews = [
   {
     review_owner: "Emin Karadeniz",
     txt:
-      "Arkadaşımın tavsiyesi üzerine bu satın aldım. İyikide almışım.İlk videodan beri adamın enerjisi pozitifliği size yansıyor.Size bu yolda başarılı olacağınızın güvenini en baştan veriyor.Bu bile motive edici.Youtube kanalımda belli bir kitleye sahibim milyonlarca izlenmem var  keşke bu kursu daha önce farketseydim çok daha iyi yerlerde olacağıma emindim.Emin olun birçok youtuberın bilmediği bilgilere sahip bir adam.Kesinilikle pişman olmayacaksınız.Daha yazacak yüzlerce kelime var ama bu kadarı yeterli:)Sevgiler Afgan Ağabey...+ See more"
+      "Arkadaşımın tavsiyesi üzerine bu satın aldım. İyikide almışım.İlk videodan beri adamın enerjisi pozitifliği size yansıyor.Size bu yolda başarılı olacağınızın güvenini en baştan veriyor.Bu bile motive edici.Youtube kanalımda belli bir kitleye sahibim milyonlarca izlenmem var  keşke bu kursu daha önce farketseydim çok daha iyi yerlerde olacağıma emindim.Emin olun birçok youtuberın bilmediği bilgilere sahip bir adam.Kesinilikle pişman olmayacaksınız.Daha yazacak yüzlerce kelime var ama bu kadarı yeterli:)Sevgiler Afgan Ağabey..."
   },
   {
     review_owner: "Şafak SARAÇOĞLU",
@@ -2118,7 +2118,7 @@ var reviews = [
   {
     review_owner: "Regenweald kurtcan",
     txt:
-      "ben bu videoları yapan kişiyi youtubede buldum nasıl buldum inanın bilmiyorum ama adam haketten işinde iyi yani bircok kişinin kanalına bakıyor ben bunu nerden biliyoum diye soruyorsan eger bende sana şöyle bir soru sormak isterim sen 2.500.000 milyon taklipcin olan bir kanalsın 150.000 bin takipcisi olan kanhalın videosunda görünürmüsün evet görünmezsin ama bu adamın kanalındaki videolarından bir tanesinde ruhi cenet yer alıyor ayriyeten videolarının cogunda yani youtubeyle ilgili olan kısımlarında ilk 5 saniyesinde ruhi cenetin sesi var yani şu ortaya cıkıyor ruhini paraya ihtiyacı yok nede olsa atıgı her video 2.000.000 milyon izleniyor niye afgan rasılovun kanalındaki bir videoya cıksınki eger afgan rasılov ona yardım etmediyse borcunu odemek icin cıkmadıysa ben öyle düşünüyorum ayriyeten buda dogru bence ben bu adamın yalan söylemedigine eminim+ See more"
+      "ben bu videoları yapan kişiyi youtubede buldum nasıl buldum inanın bilmiyorum ama adam haketten işinde iyi yani bircok kişinin kanalına bakıyor ben bunu nerden biliyoum diye soruyorsan eger bende sana şöyle bir soru sormak isterim sen 2.500.000 milyon taklipcin olan bir kanalsın 150.000 bin takipcisi olan kanhalın videosunda görünürmüsün evet görünmezsin ama bu adamın kanalındaki videolarından bir tanesinde ruhi cenet yer alıyor ayriyeten videolarının cogunda yani youtubeyle ilgili olan kısımlarında ilk 5 saniyesinde ruhi cenetin sesi var yani şu ortaya cıkıyor ruhini paraya ihtiyacı yok nede olsa atıgı her video 2.000.000 milyon izleniyor niye afgan rasılovun kanalındaki bir videoya cıksınki eger afgan rasılov ona yardım etmediyse borcunu odemek icin cıkmadıysa ben öyle düşünüyorum ayriyeten buda dogru bence ben bu adamın yalan söylemedigine eminim"
   },
   {
     review_owner: "Mehmet Nazif Dereci",
