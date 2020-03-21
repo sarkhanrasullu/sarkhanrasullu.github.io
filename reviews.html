@@ -59,24 +59,26 @@
     </div>
 </body>
 <script>
-    var begin = 0;
-    var end = reviews.length;
+    var index = getRndInteger(0, reviews.length-1);
     fadeOutIn();
     setInterval(
         function () {
-            begin++;
-            if (begin == end) begin = 0;
+            index = getRndInteger(0, reviews.length-1);
             fadeOutIn();
         }, readingDelay
     )
 
-    function fadeOutIn(){
+    function fadeOutIn() {
         $.when($('#slide').fadeOut(fadeInDelay))
-                .done(function () {
-                    $("#review_owner").text(reviews[begin].review_owner.toUpperCase());
-                    $("#review").text(reviews[begin].txt);
-                    $("#slide").fadeIn(fadeOutDelay);
-                });
+            .done(function () {
+                $("#review_owner").text(reviews[index].review_owner.toUpperCase());
+                $("#review").text(reviews[index].txt);
+                $("#slide").fadeIn(fadeOutDelay);
+            });
+    }
+
+    function getRndInteger(min, max) {
+        return Math.floor(Math.random() * (max - min)) + min;
     }
 
 </script>
